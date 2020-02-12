@@ -5,7 +5,11 @@ public class A {
 	{
 		String a="";
 		String b="";
+
 		String d="";
+
+		String c="";
+
 	}
 
 }
