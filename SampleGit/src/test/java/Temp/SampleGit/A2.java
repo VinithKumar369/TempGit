@@ -1,6 +1,6 @@
 package Temp.SampleGit;
 
-public class A {
+public class A2 {
 	public static void main(String [] args)
 	{
 		String a="";
