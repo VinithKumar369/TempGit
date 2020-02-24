@@ -9,6 +9,9 @@ public class A {
 		String d="";
 
 		String c="";
+		
+		String vinith;
+		String sainath;
 
 
 	}
