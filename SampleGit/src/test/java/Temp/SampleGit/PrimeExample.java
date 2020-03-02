@@ -19,6 +19,25 @@ public class PrimeExample{
 	  }//end of else  
 	  }
 	 }
+	 
+	 int i,m=0,flag=0;      
+	  int sai=3;
+	  //it is the number to be checked    
+	  m=n/2;      
+	  if(sai==0||n==1){  
+	   System.out.println(sai+" is not prime number");      
+	  }else{  
+	   for(i=2;i<=m;i++){      
+	    if(sai%i==0){      
+	     System.out.println(sai+" is not prime number");      
+	     flag=1;      
+	     break;      
+	    }      
+	   }      
+	   if(flag==0)  { System.out.println(sai+" is prime number"); 
+	  }//end of else  
+	  }
+	 }
 }
 	 
 	 
