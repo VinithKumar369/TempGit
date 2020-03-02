@@ -21,6 +21,7 @@ public class PrimeExample{
 	 }
 	 
 	 int i,m=0,flag=0;      
+
 	  int vi=3;//it is the number to be checked    
 	  m=n/2;      
 	  if(n==0||n==1){  
@@ -34,9 +35,9 @@ public class PrimeExample{
 	    }      
 	   }      
 	   if(flag==0)  { System.out.println(vi+" is prime number"); 
-	  }//end of else  
+	   }
 	  }
-	 }
+}
 }
 	 
 	 
