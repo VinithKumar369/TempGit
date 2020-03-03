@@ -3,12 +3,6 @@ package Temp.SampleGit;
 public class PrimeExample{    
 	 public static void main(String args[]){    
 		 
-		 String a="";
-			String b="";
-
-			String d="";
-
-			String c="";
 	  int i,m=0,flag=0;      
 	  int n=3;//it is the number to be checked    
 	  m=n/2;      
